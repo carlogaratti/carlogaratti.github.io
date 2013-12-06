@@ -3,7 +3,7 @@ layout: page
 weight: 0
 title: Python
 navigation:
-  show: true
+show: true
 ---
 
   We'll start with a simple example using the built-in Python SMTP libraries to
@@ -11,9 +11,7 @@ navigation:
   After that example, you can find more complete instructions that use the
   SendGrid Python library.
 
-  {% anchor h2 %}
   Using Python's SMTP Library 
-  {% endanchor %}
 
   This Python program will build a multi-part MIME email and send it through
   SendGrid. 
